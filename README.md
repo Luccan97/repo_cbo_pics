@@ -28,8 +28,10 @@ Importa, trata e transforma os dados brutos:
 - Salva o `data frame` consolidado como `df.RDS`.
 
 #### `01_criaTabela1/`
-(*a ser implementado ou adicionado*)
-Sugestão de script para gerar uma tabela por CBO e ano. Poderia expandir o que foi feito em `00_import` para fins de comparação entre categorias profissionais.
+Gera uma tabela interativa com:
+- Número de procedimentos por CBO (de 2015 a 2024).
+- Variação percentual ano a ano.
+- Estilização com `gt` e exportação em HTML (`t2.html`).
 
 #### `02_criaTabela2/`
 Gera uma tabela interativa com:
@@ -38,8 +40,7 @@ Gera uma tabela interativa com:
 - Estilização com `gt` e exportação em HTML (`t2.html`).
 
 #### `03_criaGrafico1/`
-(*a ser implementado ou adicionado*)
-Sugestão de script para geração de gráficos agregados por CBO ou por ano. Pode incluir tendências temporais ou comparações entre categorias.
+Cria um **gráfico de linhas** com o número total de procedimentos por ano
 
 #### `04_criaGrafico2/`
 Cria um **heatmap categorizado** com os principais CBOs e as 10 práticas mais realizadas:

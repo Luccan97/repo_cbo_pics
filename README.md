@@ -28,13 +28,13 @@ Importa, trata e transforma os dados brutos:
 - Salva o `data frame` consolidado como `df.RDS`.
 
 #### `01_criaTabela1/`
-Gera uma tabela interativa com:
+Gera uma tabela com:
 - Número de procedimentos por CBO (de 2015 a 2024).
 - Variação percentual ano a ano.
 - Estilização com `gt` e exportação em HTML (`t2.html`).
 
 #### `02_criaTabela2/`
-Gera uma tabela interativa com:
+Gera uma tabela  com:
 - Número de procedimentos por tipo de PICS (de 2015 a 2024).
 - Variação percentual ano a ano.
 - Estilização com `gt` e exportação em HTML (`t2.html`).

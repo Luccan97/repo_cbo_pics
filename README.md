@@ -50,7 +50,7 @@ Generates a table with:
 * Year-over-year percentage variation.
 * Styling with `gt` and export to HTML (`outputs/html_tables/t2.html`).
 
-#### `02_createTable3/`
+##### `02_createTable3/`
 
 Generates a table with:
 

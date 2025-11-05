@@ -56,6 +56,7 @@ Este projeto requer R (>= 4.0) e os seguintes pacotes:
 
 - `tidyverse`
 - `janitor`
+- `scales`
 - `gt`
 - `gtExtras`
 - `readxl`
@@ -65,4 +66,4 @@ Este projeto requer R (>= 4.0) e os seguintes pacotes:
 Instalação rápida via `pacman`:
 
 ```r
-pacman::p_load(tidyverse, janitor, gt, gtExtras, readxl, forcats, purrr)
+pacman::p_load(tidyverse, janitor, scales, gt, gtExtras, readxl, forcats, purrr)

@@ -1,4 +1,3 @@
-library(tidyverse)
 
 # 1. Filtrar os 10 CBOs definidos e calcular as 10 principais PICS
 df_fig3 <- df %>%

@@ -29,7 +29,7 @@ ggplot(df_fig1, aes(x = ano, y = n, group = 1)) +
               axis.title.x = element_text(size = 8),
               axis.title.y = element_text(size = 8),
               axis.text.x = element_text(hjust = 1))+
-        theme_set(theme_gray(base_family = "Times New Roman"))
+        theme_set(theme_classic(base_family = "Times New Roman"))
 
         # Rotacionar os rótulos dos anos
 

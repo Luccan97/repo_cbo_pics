@@ -15,7 +15,7 @@ Definitions
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ## `data_raw/`
 
@@ -73,12 +73,13 @@ Creates a **categorized heatmap** highlighting the main CBOs and the 10 most per
 
 ---
 
+# Notes
 
-Notes: The HTML tables were translated after being generated and underwent minor manual adjustments in style and formatting within the .docx files.
+1) The HTML tables were translated after being generated and underwent minor manual adjustments in style and formatting within the .docx files.
 
 
 
-## 🛠️ Requirements
+# 🛠️ Requirements
 
 This project requires R (>= 4.0) and the following packages:
 
